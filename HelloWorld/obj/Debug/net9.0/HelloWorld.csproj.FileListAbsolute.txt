@@ -1,0 +1,15 @@
+/home/hirian/repos/learn_net_framework/HelloWorld/bin/Debug/net9.0/HelloWorld
+/home/hirian/repos/learn_net_framework/HelloWorld/bin/Debug/net9.0/HelloWorld.deps.json
+/home/hirian/repos/learn_net_framework/HelloWorld/bin/Debug/net9.0/HelloWorld.runtimeconfig.json
+/home/hirian/repos/learn_net_framework/HelloWorld/bin/Debug/net9.0/HelloWorld.dll
+/home/hirian/repos/learn_net_framework/HelloWorld/bin/Debug/net9.0/HelloWorld.pdb
+/home/hirian/repos/learn_net_framework/HelloWorld/obj/Debug/net9.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/hirian/repos/learn_net_framework/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfoInputs.cache
+/home/hirian/repos/learn_net_framework/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfo.cs
+/home/hirian/repos/learn_net_framework/HelloWorld/obj/Debug/net9.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/hirian/repos/learn_net_framework/HelloWorld/obj/Debug/net9.0/HelloWorld.sourcelink.json
+/home/hirian/repos/learn_net_framework/HelloWorld/obj/Debug/net9.0/HelloWorld.dll
+/home/hirian/repos/learn_net_framework/HelloWorld/obj/Debug/net9.0/refint/HelloWorld.dll
+/home/hirian/repos/learn_net_framework/HelloWorld/obj/Debug/net9.0/HelloWorld.pdb
+/home/hirian/repos/learn_net_framework/HelloWorld/obj/Debug/net9.0/HelloWorld.genruntimeconfig.cache
+/home/hirian/repos/learn_net_framework/HelloWorld/obj/Debug/net9.0/ref/HelloWorld.dll
