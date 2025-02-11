@@ -1,0 +1,17 @@
+//Create console application
+dotnet new console -n HelloWorld
+
+//run application
+dotnet run
+dotnet watch run
+
+
+//Log
+Console.WriteLine("Hello, World!");
+
+//Variables
+-Numeric
+-Text
+-Lists
+-Lookup
+
